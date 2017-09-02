@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: gosanbruno
   flickr:
   github:
   instagram:
@@ -76,7 +76,7 @@ sass:
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  
 # Exclude these files from your production _site
 exclude:
   - Gemfile
@@ -86,3 +86,11 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-merlot
+
+collections:
+  places:
+    output: true
+    permalink: /:collection/:path/
+    defaults:
+      values:
+        layout: page
