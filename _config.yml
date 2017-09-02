@@ -93,4 +93,4 @@ collections:
     permalink: /:collection/:path/
     defaults:
       values:
-        layout: page
+        layout: place
