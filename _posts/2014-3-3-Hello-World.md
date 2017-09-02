@@ -1,10 +1,31 @@
 ---
 layout: post
-title: You're up and running!
+title:  "Sept 1-4, 2017 | Labor Day 2017 Activities!"
+date:   2017-09-01 12:00:00 -0700
+categories: events
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The best deals and information on family-friendly restaurants, events and fun stuff near the Peninsula. Here's a sampling of fun stuff happening Labor Day Weekend!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Fri Sept 1
+----------
+* San Bruno Concert at the Rotary Pavilion: Full House@6pm 
+* San Bruno Movie in the Park: Hocus Pocus@8pm
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Sat Sept 2
+----------
+* [Millbrae Art & Wine Festival][wine] @10am-5pm
+* [Rail Fair at Ardenwood Farms][rail] in Fremont @10am-4pm
+
+Sun Sept 3
+----------
+* [Millbrae Art & Wine Festival][wine] @10am-5pm
+* [Rail Fair at Ardenwood Farms][rail] in Fremont @10am-4pm
+
+Mon Sept 4
+----------
+* [Rail Fair at Ardenwood Farms][rail] in Fremont @10am-4pm
+
+[wine]: http://millbrae.miramarevents.com/
+[rail]: http://www.ebparks.org/Assets/_Nav_Categories/Parks/Ardenwood_Historic_Farm/Ardenwood+Special+Events+Flyer+-+2017.pdf
+[calendar]: http://www.ebparks.org/parks/ardenwood#calendar
