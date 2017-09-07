@@ -1,0 +1,15 @@
+---
+layout: place
+title:  "Vasona Lake Park"
+date:   2017-09-01 12:00:00 -0700
+location:
+  city: "Los Gatos"
+  county: "Santa Clara"
+traveltime: 30
+features: 
+  - train ride
+  - picnics
+  - reservations
+---
+
+Vasona Park

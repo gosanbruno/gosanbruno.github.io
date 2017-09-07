@@ -1,0 +1,14 @@
+---
+layout: place
+title:  "Crystal Springs Park"
+date:   2017-08-01 12:00:00 -0700
+location:
+  city: "San Bruno"
+  county: "San Mateo"
+traveltime: 0
+features: 
+  - playground
+  - slide
+---
+
+San Bruno city park.

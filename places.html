@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<h1>Places</h1>
+<div class="posts">
+  <ul>
+	{% assign sorted = site.places | sort: 'distance' %}
+    {% for post in sorted %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> {{post.location.city}}</li>
+    {% endfor %}
+  </ul>
+</div>
+
+<h1><a href="{{ site.baseurl }}/parks">Parks</a></h1>
+<div class="posts">
+  <ul>
+	{% assign sorted = site.parks | sort: 'distance' %}
+    {% for post in sorted %}
+    <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> {{post.location.city}}</li>
+    {% endfor %}
+  </ul>
+</div>
