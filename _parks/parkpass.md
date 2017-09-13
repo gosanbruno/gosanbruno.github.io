@@ -16,5 +16,6 @@ The pass will get you into a few of my favorite San Mateo County Parks:
 * Crystal Springs Park, San Bruno -- the one with the giant slide.
 * Coyote Point Park, San Mateo -- where CuriOdyssey is
 * San Bruno Mountain Park, Daly City -- fantastic city and Bay views. Near Steak 'n' Shake.
+* ... and many more!
 
 http://parks.smcgov.org/annual-park-pass
