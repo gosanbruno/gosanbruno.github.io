@@ -1,0 +1,17 @@
+---
+layout: place
+title:  "Coyote Point Park"
+date:   2017-09-01 12:00:00 -0700
+location:
+  city: "San Mateo"
+  county: "San Mateo"
+traveltime: 15
+features: 
+  - museum
+  - beach
+  - picnics
+  - reservations
+  - alcohol allowed
+---
+
+Coyote Point park is on the eastern part of San Mateo on the bay.
