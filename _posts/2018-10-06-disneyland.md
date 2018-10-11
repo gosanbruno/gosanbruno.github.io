@@ -54,7 +54,7 @@ California Adventure
 
 Cost: $50 lunch, $40 midway games, $10 snacks
 
-We woke up around 7am, ate breakfast and walked over to the entrance gate. Disney has bag-check and metal detector scanning before you get to the ticket booths. The security guards do a comprehensive through everbody's bags. Outside food is allowed so I brought a lot food & drink (a couple Cokes, chips, juice boxes, granola bars, fruit gummi snacks). It took us around 10 minutes to get through the line. After all is said in done we got in through the park gate at 8:30 in the morning. Nice!
+We woke up around 7am, ate breakfast and walked over to the entrance gate. Disney has bag-check and metal detector scanning before you get to the ticket booths. The security guards do a comprehensive through everbody's bags. Outside food is allowed so I brought a lot food & drink (a couple Cokes, chips, juice boxes, granola bars, fruit gummi snacks). It took us around 10 minutes to get through the line. After all is said in done we got in through the park gate at 8:30 in the morning. Nice! A nice thing about California Adventure is they serve beer and alcohol all around the park. Basically starting around 11am I saw adults double-fisting brewskis ($10 each) all around the park.
 
 Without going into too much detail here's how we did the day.
 
@@ -85,3 +85,33 @@ Disneyland
 
 Cost: $90 lunch, $10 snacks
 
+We were worn out from the first day in the park. If we go to Disneyland again in the future I'll take 1 day off in between parks to recuperate. Disneyland is bigger and more crowded. I didn't see any beer in Disneyland.
+
+* We got into the park around 9:30am.
+* Head straight to Tomorrow Land to get FastPass for Buzz Lightyear for 11:15
+* Ride Nemo, 10-minute wait
+* Ride Autopia, 20-minute wait
+* Ride Buzz Lightyear
+* Walk across to New Orleasn Square
+* Get FastPass for Haunted Mansion at 5:20pm (6-hour delay!)
+* Lunch reservations at Cafe Orleans 11:45. The Monte Cristo sandwich is a beast! It's either a deep-fried turkey sandwich or a beignet stuffed with turkey and cheese. Delicious any way you think of it.
+* Visit Tarzan's treehouse
+* Ride Pirates of the Carribean, 30-minute wait
+* Picture at Sleeping Beauty Castle
+* Watch the musical show Mickey's Magic Map at 2:15pm
+* Split up to ride Dumbo vs toddler nap time
+* Grab FastPass for It's a Small World
+* Wait in line to take picture with Goofy in Toon Town, 30-minutes
+* Ride It's a Small World, 15-minute FastPass wait
+* Ride train back to New Orleans Square
+* Ride Haunted Mansion
+* Leave park to have dinner
+* 9:30 come back to park for fireworks!
+* After fireworks ride some more things
+* Ride Autopia twice (no wait)
+* Ride Dumbo, 2-minute wait
+* Ride Carousel, 2-minute wait 
+* Ride Tea cups, 2-minute wait
+* Ride Pinocchio's Journey, 5-minute wait
+* Ride Snow White's scary adventure, 5-minutes
+* 11:30 done! Ride shuttle back to hotel.
