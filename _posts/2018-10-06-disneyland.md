@@ -16,25 +16,72 @@ Lastly, I finally had the gumption to use some of my Chase Ultimate Rewards poin
 Hotel: Hyatt Place at Anaheim Resort/Convention Center
 ---
 
+Cost: 40,600 points or approximately $609.00 including taxes & fees
+
+Extra fees: $20 per day fee for parking
+
 At first I wanted to stay at the Disney Grand California on the park grounds but the weekend was prohibitively expensive at around $700 per night! $2,100 for a 3-day weekend in SoCal? I don't think so. I probably get 6 nights in a pretty good hotel in Hawaii for that.
 
-There are plenty of hotels in the Disneyland area to choose which gave us serious paralysis by analysis. We filtered according to this criteria, which the Hyatt Place mostly satisfied.
+There are plenty of hotels in the Disneyland area to choose which gave us serious paralysis by analysis. We filtered through the options applying the following criteria which the Hyatt Place mostly satisfied.
 
-Filter criteria 1: Free hot breakfast, not continental breakfast. In the 3 nights we stayed at the Hyatt place we had scrambled eggs, hard boiled eggs, pancakes, waffles, bacon, sausage, oatmeal, cold cereals, english muffins and assorted fruit. Overall I would say they offer a good hot breakfast on par with IHOP/Denny's.
+__Filter criteria 1: Free hot breakfast, not continental breakfast.__ In the 3 nights we stayed at the Hyatt place we had scrambled eggs, hard boiled eggs, pancakes, waffles, bacon, sausage, oatmeal, cold cereals, english muffins and assorted fruit. Overall I would say they offer a good hot breakfast on par with IHOP/Denny's.
 
-Filter criteria 2: In-room fridge. We need a fridge for late night milk. I was hoping for a mini kitchenette with a microwave and some plates but it turns out we wouldn't have needed the microwave anyway because we in the parks for lunch and had dinner with my family each night.
+__Filter criteria 2: In-room fridge. Bonus points for microwave.__ We need a fridge for late night milk. I was hoping for a mini kitchenette with a microwave and some plates but it turns out we wouldn't have needed the microwave anyway because we in the parks for lunch and had dinner with my family each night.
 
-Filter criteria 3: walking distance to the park. The Hyatt place is a 20 minute walk from the front door to the Disneyland entry gates. It's an easy walk. The only frustration is that the wait times for crosswalks are probably around 2-minutes per intersection. The hotel is conveniently across the street from Disney's Toy Story parking lot. It's about a 5-7 minute walk to the shuttle bus area and a 5-7 minute bus ride to the gate. The shuttles are abundant so we didn't wait for more than 5 minutes to go from standing in line to the bus leaving to get to the park.
+__Filter criteria 3: walking distance or frequent shuttle to the park.__ The Hyatt place is a 20 minute walk from the front door to the Disneyland entry gates. It's an easy walk. The only frustration is that the wait times for crosswalks are probably around 2-minutes per intersection. The hotel is conveniently across the street from Disney's Toy Story parking lot. It's about a 5-7 minute walk to the shuttle bus area and a 5-7 minute bus ride to the gate. The shuttles are abundant so we didn't wait for more than 5 minutes to go from standing in line to the bus leaving to get to the park.
 
-I was very satisfied with Hyatt Place. It is a solid option for a Disneyland hotel. We also considered going to *Hyatt House* which is one block closer to the park entrance gate but it cost $40 more per night. Given our criteria I don't regret making the distance for cost tradeoff. 
+__Overall I was very satisfied with Hyatt Place.__ It is a solid option for a Disneyland hotel. We considered staying at the *Hyatt House* which is about half the distance to the park entrance gate but it cost $40 more per night. Since Hyatt Place satisfied our requirements I don't regret trading the distance for cost. 
 
-Cost: 40,600 points or approximately $609.00 including taxes & fees
-Extra fees: $20 per day fee for parking
 
 Car: Standard sedan from Alamo LGB airport
 ---
 
-I like renting cars at LGB because the car rental lot is directly across the street from the terminal. The downside is that the Alamo/Enterprise booth always has a line! There are 6 car rental agencies on the premises but everybody has to get in line at Alamo. Clearly they must be the cheapest. We got a nice surprise this time around because I reserved a Camry from Alamo but they gave me a free upgrade to a Premium class Nissan Maxima with 300hp because that's all they had. The Maxima felt like driving a Ferrari compared to my daily-driving 150hp Toyota Prius V. :-)
-
 Cost: 14,438 points / $216.57 including taxes & fees. 
+
 Extra fees: No extra fees to drop off car at LAX.
+
+I like renting cars at Long Beach Airport (LGB). The car rental lot is directly across the street from the terminal. The downside is that the Alamo/Enterprise booth always has a line! There are 6 car rental agencies on the premises but everybody has to get in line at Alamo. Clearly they must be the cheapest. We got a nice surprise this time around because I reserved a Camry from Alamo but they gave me a free upgrade to a Premium class Nissan Maxima with 300hp because that's all they had. The Maxima felt like driving a Ferrari compared to my daily-driving 150hp Toyota Prius V. :-)
+
+Disneyland: 2-days, 1 park per day
+---
+
+Cost: 2 adult tickets, 1 youth ticket. $618
+
+We opted for the 1 park per day passes because we've never been to California Adventure. My brother had a season pass to the parks 2 years ago and he assured me that California Adventure has enough to see to fill a 1-day pass. We bought directly from the Disneyland website and eschewed the recently introduced MaxPass option. MaxPass might have been worthwhile at Disneyland but we did OK at California Adventure without it.
+
+California Adventure
+---
+
+Cost: $50 lunch, $40 midway games, $10 snacks
+
+We woke up around 7am, ate breakfast and walked over to the entrance gate. Disney has bag-check and metal detector scanning before you get to the ticket booths. The security guards do a comprehensive through everbody's bags. Outside food is allowed so I brought a lot food & drink (a couple Cokes, chips, juice boxes, granola bars, fruit gummi snacks). It took us around 10 minutes to get through the line. After all is said in done we got in through the park gate at 8:30 in the morning. Nice!
+
+Without going into too much detail here's how we did the day.
+
+* 8:30 get into park, go to Cars Land
+* Get FastPass for Radiator Springs Racers (1:45pm-2:45pm)
+* Ride Mater's Graveyard Jam-BOO-ree.(a.k.a. Mater's Junkyard Jamboree when it's not Halloween) 5-minute wait
+* Luigi's Honkin' Haul-O-ween was closed
+* Took a photo with one of the characters
+* Ride Ariel's Undersea Adventure, 5-minute wait
+* Ride Golden Zephyr, 5-minute wait
+* Ride Jumpin' Jellyfish, 5-minute wait
+* Pick up FastPass for Toy Story Midway Mania (3:15pm-4:15pm)
+* Pixar Pal-a-round, non-swinging. 30-minute wait.
+* Play some Games at Pixar Pier. $5 per play
+* Lunch at Cocina Cucamonga
+* Attend Turtle Talk with Crush from Finding Nemo
+* Ride Radiator Springs Racers with FastPass, 30-minute wait
+* Take a break to people watch
+* Ride Midway Mania
+* Explore Redwood Creek Challenge Trail
+* 4:30pm, Done! We had to leave park to go to dinner.
+* Later in the evening my wife went back to the park to ride the Incredi-coaster and she watched some of the parade which looked really impressive but there's no way the kids would have been able to survive another 2 hours at the park.
+* Park closed at 10pm.
+
+
+Disneyland
+---
+
+Cost: $90 lunch, $10 snacks
+
